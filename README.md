@@ -3,4 +3,4 @@ Basic text viewer to show single display ascii text. Tested on Nokia 225 with di
 ![alt text](https://rdzdx.github.io/textvp/Picture.jpg)
 For using with Nokia mobile phone, app must be signed with IMSI (your SIM card) code.
 https://vxpatch.luxferre.top/
-Applicatinn file - "Textvp.vxp".
+Application file - "Textvp.vxp".
