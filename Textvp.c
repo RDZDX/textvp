@@ -53,8 +53,7 @@ char oneDisplay[21][61] = {
     "                                                            ",
     "                                                            ",
     "                                                            ",
-    "      File default.txt not found !"
-    "                                                            ",
+    "      File default.txt not found !",
     "                                                            ",
     "                                                            ",
     "                                                            ",
