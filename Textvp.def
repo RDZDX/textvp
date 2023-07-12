@@ -1,7 +1,0 @@
-; Textvp.def : Declares the module parameters for the DLL.
-
-LIBRARY      "Textvp"
-DESCRIPTION  'Textvp Windows Dynamic Link Library'
-
-EXPORTS
-    vm_entry @1
