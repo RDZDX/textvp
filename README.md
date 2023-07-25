@@ -4,4 +4,4 @@ LEFT_SOFTKEY - open file, RIGHT_SOFTKEY - exit app, KEY_DOWN - next page, KEY_UP
 For using with Nokia mobile phone, app must be signed with IMSI (your SIM card) code.
 https://vxpatch.luxferre.top/
 Application file - "Textvp.vxp".
-
+![alt text](https://github.com/RDZDX/textvp/blob/main/docs/_Picture.jpg)
