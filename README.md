@@ -3,5 +3,5 @@ Basic text viewer to show text information from txt file for MRE platform (inclu
 LEFT_SOFTKEY - open file, RIGHT_SOFTKEY - exit app, KEY_DOWN - next page, KEY_UP - limited up functionality (one page back), KEY_NUM1 - display current filename and  current page number.
 For using with Nokia mobile phone, app must be signed with IMSI (your SIM card) code.
 https://vxpatch.luxferre.top/
-Application files - "[TextvpB.vxp](https://github.com/RDZDX/textvp/blob/main/TextvpB.vxp?raw=true)" "[TextvpW.vxp](https://github.com/RDZDX/textvp/blob/main/TextvpW.vxp?raw=true)"..
+Application files - "[TextvpB.vxp](https://github.com/RDZDX/textvp/blob/main/TextvpB.vxp?raw=true)" "[TextvpW.vxp](https://github.com/RDZDX/textvp/blob/main/TextvpW.vxp?raw=true)".
 ![alt text](https://rdzdx.github.io/textvp/picture.jpg)
