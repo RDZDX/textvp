@@ -5,3 +5,4 @@ For using with Nokia mobile phone, app must be signed with IMSI (your SIM card) 
 https://vxpatch.luxferre.top/
 Application files - "[TextvpB.vxp](https://github.com/RDZDX/textvp/blob/main/TextvpB.vxp?raw=true)" "[TextvpW.vxp](https://github.com/RDZDX/textvp/blob/main/TextvpW.vxp?raw=true)".
 ![alt text](https://rdzdx.github.io/textvp/picture.jpg)
+![alt text](https://rdzdx.github.io/textvp/picture1.jpg)
