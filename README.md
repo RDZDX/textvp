@@ -4,6 +4,6 @@ LEFT_SOFTKEY - open file, RIGHT_SOFTKEY - exit app, KEY_DOWN - next page, KEY_UP
 KEY_NUM3 - change color palete, KEY_NUM9 - go to End, KEY_NUM7 - go to Home, KEY_NUM8 - go forward  5 pages, KEY_NUM6 - go forward 10% pages. Support launching app with parameter - text file path.
 For using with Nokia mobile phone, app must be signed with IMSI (your SIM card) code.
 https://vxpatch.luxferre.top/
-Application files - "[TextvpB.vxp](https://github.com/RDZDX/textvp/blob/main/TextvpB.vxp?raw=true)" "[TextvpW.vxp](https://github.com/RDZDX/textvp/blob/main/TextvpW.vxp?raw=true)".
+Application files - "[TextvpB.vxp](https://rdzdx.github.io/textvp/TextvpB.vxp)", "[TextvpW.vxp](https://rdzdx.github.io/textvp/TextvpW.vxp)", "[Textvpascii.vxp](https://rdzdx.github.io/textvp/Textvpascii.vxp)".
 ![alt text](https://rdzdx.github.io/textvp/picture.jpg)
 ![alt text](https://rdzdx.github.io/textvp/picture1.jpg)
